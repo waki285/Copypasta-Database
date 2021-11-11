@@ -1,0 +1,2 @@
+# Copypasta-Database
+Copypastaのデータベース
